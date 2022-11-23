@@ -3,17 +3,17 @@
 <a href="https://twitter.com/nthofhisname">
   <img alt="my Twitter" width="50px" src=""/>
 </a>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
+<a href="">
   <img alt="my LinkdeIN" width="50px" src="" />
 </a>
-<a href="https://www.instagram.com/nthofhisname">
-  <img alt="my Instagram" width="50px" src="" />
+<a href="">
+  <img alt="my Email" width="50px" src="" />
 </a>
 <a href="">
   <img alt="my Spotify" width="50px" src="" />
 </a>
 <br>
-<img alt="Code Time" src="" />
+<img alt="" src="" />
 </p>
 
 ```about
