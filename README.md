@@ -36,7 +36,7 @@ hobbies: ["Playing the Piano", "Playing the Bass😂", "Python"]
 </p>
 
 <p align="center">
-  <a href="https://user-images.githubusercontent.com/95895530/203469543-556dd272-6b9c-4e86-b67c-82ae6852909b.png" />
+  <a href="" />
     <img src="">
   </a>
 </p>
