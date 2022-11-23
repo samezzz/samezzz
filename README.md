@@ -5,16 +5,16 @@
 <p align="center">
 <br/>
 <a href="https://twitter.com/nthofhisname">
-  <img alt="guilyx | Twitter" width="50px" src=""/>
+  <img alt="my Twitter" width="50px" src=""/>
 </a>
 <a href="https://www.linkedin.com/in/erwinlejeune-lkn">
-  <img alt="guilyx's LinkdeIN" width="50px" src="" />
+  <img alt="my LinkdeIN" width="50px" src="" />
 </a>
 <a href="https://www.instagram.com/nthofhisname">
-  <img alt="guilyx's Instagram" width="50px" src="" />
+  <img alt="my Instagram" width="50px" src="" />
 </a>
 <a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img alt="guilyx's Spotify" width="50px" src="" />
+  <img alt="my Spotify" width="50px" src="" />
 </a>
 <br>
 <img alt="Code Time" src="" />
@@ -41,8 +41,8 @@ hobbies: ["Playing the Piano", "Playing the Bass😂", "Python all day"]
 </p>
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
+  <a href="">
+    <img src="">
   </a>
 </p>
 
