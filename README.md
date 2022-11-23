@@ -19,16 +19,15 @@
 ```about
 name: Samuel Essilfie
 located_in: Accra, Ghana
-from: Nantes (Ghana)
-job: Robotics Software Engineer
-education: ["Bsc.Biomedical Engineering in KNUST"]
+education: ["Student @KNUST studying Bsc.Biomedical Engineering"]
+job: 🔎
 company: N/A
 Experiences: 
   - ["Not yet🤫"]
 
 fields_of_interests: ["Data Science", "Web Development", "Scripting"]
 currently_learning: ["Django Framework", "Pandas", "GraphQL"]
-will_learn: ["Web3"]
+will_learn: ["Javascript"]
 hobbies: ["Playing the Piano", "Playing the Bass😂", "Python all day"]
 ```
 
