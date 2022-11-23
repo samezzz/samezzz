@@ -1,8 +1,7 @@
 <p align="center">
 <br/>
 <a href="https://twitter.com/_Samess">
-  <img alt="my Twitter" width="50px" src="![twitter](https://user-images.githubusercontent.com/95895530/203465411-e08b5a7d-7bff-4323-a08e-28ad3eb94e80.png)
-"/>
+  <img alt="my Twitter" width="50px" src="https://user-images.githubusercontent.com/95895530/203465411-e08b5a7d-7bff-4323-a08e-28ad3eb94e80.png"/>
 </a>
 <a href="https://www.linkedin.com/in/samuel-essilfie-274684252/">
   <img alt="my LinkdeIN" width="50px" src="![linkedin](https://user-images.githubusercontent.com/95895530/203465338-90aa4af9-406a-43c9-bb22-17d7188710af.png)
