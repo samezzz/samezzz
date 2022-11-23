@@ -19,7 +19,7 @@
 ```about
 name: Samuel Essilfie
 located_in: Accra, Ghana
-education: ["Student @KNUST studying Bsc.Biomedical Engineering"]
+education: Student @KNUST, Bsc.Biomedical Engineering
 job: 🔎
 company: N/A
 experiences: 
@@ -32,17 +32,17 @@ hobbies: ["Playing the Piano", "Playing the Bass😂", "Python"]
 ```
 
 <p align="center">
-  <img alig src="" />
+  <img src="https://user-images.githubusercontent.com/95895530/203469506-08582ae6-24e7-490e-910b-00c9717c53bc.jpeg" />
 </p>
 
 <p align="center">
-  <a href="">
+  <a href="https://user-images.githubusercontent.com/95895530/203469543-556dd272-6b9c-4e86-b67c-82ae6852909b.png">
     <img src="">
   </a>
 </p>
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/95895530/203469577-5e64bdc9-2a3c-4ac2-9f12-8a014fa16e54.jpeg">
 </p>
  
 ```
