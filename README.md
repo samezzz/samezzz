@@ -4,16 +4,13 @@
   <img alt="my Twitter" width="50px" src="https://user-images.githubusercontent.com/95895530/203465411-e08b5a7d-7bff-4323-a08e-28ad3eb94e80.png"/>
 </a>
 <a href="https://www.linkedin.com/in/samuel-essilfie-274684252/">
-  <img alt="my LinkdeIN" width="50px" src="![linkedin](https://user-images.githubusercontent.com/95895530/203465338-90aa4af9-406a-43c9-bb22-17d7188710af.png)
-" />
+  <img alt="my LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/95895530/203465338-90aa4af9-406a-43c9-bb22-17d7188710af.png" />
 </a>
 <a href="psalmuelselfie@gmail.com">
-  <img alt="my Email" width="50px" src="![gmail](https://user-images.githubusercontent.com/95895530/203465529-99ef9677-fba7-46e6-95c0-2048184c83fa.png)
-" />
+  <img alt="my Email" width="50px" src="https://user-images.githubusercontent.com/95895530/203465529-99ef9677-fba7-46e6-95c0-2048184c83fa.png" />
 </a>
 <a href="">
-  <img alt="my Spotify" width="50px" src="![spotify](https://user-images.githubusercontent.com/95895530/203466679-c94faaf7-9d8f-4b46-a79d-b12008118a9c.png)
-" />
+  <img alt="my Spotify" width="50px" src="https://user-images.githubusercontent.com/95895530/203466679-c94faaf7-9d8f-4b46-a79d-b12008118a9c.png" />
 </a>
 <br>
 <img alt="" src="" />
