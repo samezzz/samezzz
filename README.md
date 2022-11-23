@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/nthofhisname">
   <img alt="my Instagram" width="50px" src="" />
 </a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+<a href="">
   <img alt="my Spotify" width="50px" src="" />
 </a>
 <br>
@@ -51,11 +51,11 @@ hobbies: ["Playing the Piano", "Playing the Bass😂", "Python all day"]
 </p>
  
 ```
-section: Check out Dag Heward Mills Podcast and thank me later!!!
-note: thanks to both of them!
+tip: Check out Dag Heward Mills Podcast and thank me later😉
+note: Jesus, Saviour of the world!!!
 ```
 
-**I'm a Night Person🦉** 
+**I'm a Night Person btw🦉** 
 
 Liked it ?
 
