@@ -22,13 +22,13 @@ located_in: Accra, Ghana
 education: ["Student @KNUST studying Bsc.Biomedical Engineering"]
 job: 🔎
 company: N/A
-Experiences: 
+experiences: 
   - ["Not yet🤫"]
 
 fields_of_interests: ["Data Science", "Web Development", "Scripting"]
 currently_learning: ["Django Framework", "Pandas", "GraphQL"]
 will_learn: ["Javascript"]
-hobbies: ["Playing the Piano", "Playing the Bass😂", "Python all day"]
+hobbies: ["Playing the Piano", "Playing the Bass😂", "Python"]
 ```
 
 <p align="center">
