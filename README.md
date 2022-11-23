@@ -50,46 +50,12 @@ hobbies: ["Playing the Piano", "Playing the Bass😂", "Python all day"]
   <img src="">
 </p>
  
-```yaml
-section: spotify components info
-tutorial_path: guilyx/guilyx/how-to.md
-original_idea: natemoo-re
-improved_by: andyruwruw
+```
+section: Check out Dag Heward Mills Podcast and thank me later!!!
 note: thanks to both of them!
 ```
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-820%20hrs%2025%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-295%20Thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       148 commits    ██████░░░░░░░░░░░░░░░░░░░   23.79% 
-Tuesday      137 commits    █████░░░░░░░░░░░░░░░░░░░░   22.03% 
-Wednesday    79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
-Thursday     106 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
-Friday       77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.38% 
-Saturday     43 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.91% 
-Sunday       32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.14%
-
-```
-
-```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/guilyx/guilyx/master/charts/bar_graph.png) 
-
-
- Last Updated on 09/11/2022 17:11:27 UTC
-<!--END_SECTION:waka-->
+**I'm a Night Person🦉** 
 
 Liked it ?
 
