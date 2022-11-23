@@ -13,7 +13,8 @@
 " />
 </a>
 <a href="">
-  <img alt="my Spotify" width="50px" src="https://play.google.com/store/apps/details?id=com.spotify.tv.android&hl=en_US&gl=US" />
+  <img alt="my Spotify" width="50px" src="![spotify](https://user-images.githubusercontent.com/95895530/203466679-c94faaf7-9d8f-4b46-a79d-b12008118a9c.png)
+" />
 </a>
 <br>
 <img alt="" src="" />
