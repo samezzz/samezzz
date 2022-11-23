@@ -1,16 +1,20 @@
 <p align="center">
 <br/>
-<a href="https://twitter.com/nthofhisname">
-  <img alt="my Twitter" width="50px" src=""/>
+<a href="https://twitter.com/_Samess">
+  <img alt="my Twitter" width="50px" src="![twitter](https://user-images.githubusercontent.com/95895530/203465411-e08b5a7d-7bff-4323-a08e-28ad3eb94e80.png)
+"/>
+</a>
+<a href="https://www.linkedin.com/in/samuel-essilfie-274684252/">
+  <img alt="my LinkdeIN" width="50px" src="![linkedin](https://user-images.githubusercontent.com/95895530/203465338-90aa4af9-406a-43c9-bb22-17d7188710af.png)
+" />
+</a>
+<a href="psalmuelselfie@gmail.com">
+  <img alt="my Email" width="50px" src="![gmail](https://user-images.githubusercontent.com/95895530/203465529-99ef9677-fba7-46e6-95c0-2048184c83fa.png)
+" />
 </a>
 <a href="">
-  <img alt="my LinkdeIN" width="50px" src="" />
-</a>
-<a href="">
-  <img alt="my Email" width="50px" src="" />
-</a>
-<a href="">
-  <img alt="my Spotify" width="50px" src="" />
+  <img alt="my Spotify" width="50px" src="![spotify](https://user-images.githubusercontent.com/95895530/203465585-c0aa4bd9-3b8a-43f4-9f7e-a2117b0329e8.png)
+" />
 </a>
 <br>
 <img alt="" src="" />
