@@ -50,16 +50,6 @@ hobbies: ["Playing the Piano", "Playing the Bass😂", "Python"]
 <p align="center">
   <img src="https://user-images.githubusercontent.com/95895530/203469506-08582ae6-24e7-490e-910b-00c9717c53bc.jpeg" />
 </p>
-
-<p align="center">
-  <a href="" />
-    <img src="https://user-images.githubusercontent.com/95895530/203469897-f8e44c27-3b34-4c64-b149-45e44b040cd9.jpeg">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/95895530/203469577-5e64bdc9-2a3c-4ac2-9f12-8a014fa16e54.jpeg" />
-</p>
  
 ```
 tip: Check out Dag Heward Mills Podcast and thank me later😉
