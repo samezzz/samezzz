@@ -46,8 +46,8 @@ currently_learning: ["Django Framework", "Pandas", "GraphQL"]
 will_learn: ["Javascript"]
 hobbies: ["Playing the Piano", "Playing the Bass😂", "Python"]
 ```
-<h2>Working on a Spotify Api</h2>
-<p>I'm yet to link it to my Spotify</p>
+<h2>Working on My Spotify Api</h2>
+<h3>This is a prototype from @guilyx</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/95895530/203469506-08582ae6-24e7-490e-910b-00c9717c53bc.jpeg" />
 </p>
