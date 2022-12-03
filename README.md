@@ -47,6 +47,7 @@ will_learn: ["Javascript"]
 hobbies: ["Playing the Piano", "Playing the Bass😂", "Python"]
 ```
 <h2>Working on a Spotify Api</h2>
+<p>I'm yet to link it to my Spotify</p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/95895530/203469506-08582ae6-24e7-490e-910b-00c9717c53bc.jpeg" />
 </p>
