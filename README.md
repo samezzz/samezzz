@@ -61,5 +61,8 @@ note: Jesus, Saviour of the world!!!
 Thank You! 🙏🏽
 For what you might ask? Just saying🤗. Or it's me being polite because you might be a recruiter👀
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 
