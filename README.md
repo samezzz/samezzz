@@ -50,10 +50,6 @@ hobbies: ["Playing the Piano", "Playing the Bass😂", "Python"]
 <p align="center">
   <img src="https://user-images.githubusercontent.com/95895530/203469506-08582ae6-24e7-490e-910b-00c9717c53bc.jpeg" />
 </p>
- 
- <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
 
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&redirect=true">
