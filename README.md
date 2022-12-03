@@ -59,7 +59,7 @@ note: Jesus, Saviour of the world!!!
 **I'm a Night Person btw🦉** 
 
 Thank You! 🙏🏽
-For what you might ask? Just saying🤗. Or it's me just being polite because you might be a recruiter👀
+For what you might ask? Just saying🤗. Or it's me being polite because you might be a recruiter👀
 
 
 
