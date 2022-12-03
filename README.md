@@ -46,7 +46,7 @@ currently_learning: ["Django Framework", "Pandas", "GraphQL"]
 will_learn: ["Javascript"]
 hobbies: ["Playing the Piano", "Playing the Bass😂", "Python"]
 ```
-
+<h2>Working on a Spotify Api</h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/95895530/203469506-08582ae6-24e7-490e-910b-00c9717c53bc.jpeg" />
 </p>
@@ -58,8 +58,8 @@ note: Jesus, Saviour of the world!!!
 
 **I'm a Night Person btw🦉** 
 
-Liked it ?
+Thank You! 🙏🏽
+For what you might ask? Just saying🤗. Or it's me just being polite because you might be a recruiter👀
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/95895530/203470240-ea3be236-8cf7-449d-baf6-24a554f285be.jpeg"/>
-</p>
+
+
