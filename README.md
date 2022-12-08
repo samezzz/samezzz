@@ -41,9 +41,9 @@ company: N/A
 experiences: 
   - ["Not yet🤫"]
 
-fields_of_interests: ["Data Science", "Web Development", "Scripting"]
-currently_learning: ["Django Framework", "Pandas", "GraphQL"]
-will_learn: ["Javascript"]
+fields_of_interests: ["Web Development", "Data Science", "Scripting and Automation"]
+currently_learning: ["Django Framework", "Postgres db", "GraphQL"]
+will_learn: ["Javascript", "NextJs", "ReactJs"]
 hobbies: ["Playing the Piano", "Playing the Bass😂", "Python"]
 ```
 ```
