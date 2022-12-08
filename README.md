@@ -46,22 +46,6 @@ currently_learning: ["Django Framework", "Pandas", "GraphQL"]
 will_learn: ["Javascript"]
 hobbies: ["Playing the Piano", "Playing the Bass😂", "Python"]
 ```
-<h2>Working on My Spotify Api</h2>
-<h3>This is a prototype from @guilyx</h3>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/95895530/203469506-08582ae6-24e7-490e-910b-00c9717c53bc.jpeg" />
-</p>
-
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://guilyx.vercel.app/api/top-played">
-</p>
- 
 ```
 tip: Check out Dag Heward Mills Podcast and thank me later😉
 note: Jesus, Saviour of the world!!!
