@@ -34,7 +34,7 @@
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300"/>
 </div>
 
-```about
+```yaml
 name: Samuel Essilfie
 located_in: Accra, Ghana
 education: Student @KNUST, Bsc.Biomedical Engineering
@@ -48,7 +48,7 @@ currently_learning: ["Django Framework", "Postgres db", "GraphQL"]
 will_learn: ["Javascript", "NextJs", "ReactJs"]
 hobbies: ["Playing the Piano", "Playing the Bass😂", "Python"]
 ```
-```
+```yaml
 tip: Check out Dag Heward Mills Podcast and thank me later😉
 note: Jesus, Saviour of the world!!!
 ```
