@@ -44,7 +44,8 @@ experiences:
   - ["Not yet🤫"]
 
 fields_of_interests: ["Web Development", "Data Science", "Scripting and Automation"]
-currently_learning: ["Django Framework", "Postgres db", "GraphQL", "Javascript"]
+skills: ["Backend developer with Django Framework", "Database design with Postgres db"]
+currently_learning: ["GraphQL", "Javascript"]
 will_learn: ["ReactJs", "NextJs"]
 hobbies: ["Playing the Piano", "Playing the Bass😂", "Python"]
 ```
