@@ -45,8 +45,8 @@ experiences:
 
 fields_of_interests: ["Web Development", "Data Science", "Scripting and Automation"]
 skills: ["Backend developer with Django Framework", "Database design with Postgres db"]
-currently_learning: ["GraphQL", "Javascript", "TypeScript", "Tailwind CSS"]
-will_learn: ["ReactJs", "NextJs"]
+currently_learning: ["GraphQL", "Javascript", "TypeScript", "Tailwind CSS", "ReactJs", "NextJs"]
+will_learn: ["open source contributions"]
 hobbies: ["Playing the Piano", "Playing the Bass😂", "Python"]
 ```
 ```yaml
