@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300"/>
+</div>
+
 <p align="center">
 <br/>
 <a href="https://twitter.com/_Samess">
@@ -30,9 +34,6 @@
 
 
 </pre>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300"/>
-</div>
 
 ```yaml
 name: Samuel Essilfie
