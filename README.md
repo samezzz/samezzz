@@ -55,7 +55,7 @@ note: Jesus, Saviour of the world!!!
 ```
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=samezzz&theme=github-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samezzz&layout=compact&show_icons=true&theme=onedark&card_width=600px)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samezzz&layout=compact&show_icons=true&theme=blue-green&card_width=540px)](https://github.com/anuraghazra/github-readme-stats)
 
 **I'm a Night Person btw🦉** 
 
