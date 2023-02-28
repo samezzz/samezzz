@@ -44,7 +44,7 @@ experiences:
   - ["Not yet🤫"]
 
 fields_of_interests: ["Web Development", "Data Science", "Scripting and Automation"]
-skills: ["Backend developer with Django Framework", "Database design with Postgres db"]
+skills: ["Backend developement with Django Framework", "Database design with Postgres db"]
 currently_learning: ["GraphQL", "Javascript", "TypeScript", "Tailwind CSS", "ReactJs", "NextJs"]
 will_learn: ["open source contributions"]
 hobbies: ["Playing the Piano", "Playing the Bass😂", "Python"]
@@ -54,8 +54,10 @@ tip: Check out Dag Heward Mills Podcast and thank me later😉
 note: Jesus, Saviour of the world!!!
 ```
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=samezzz&theme=github-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samezzz&layout=default&show_icons=true&theme=blue-green&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=samezzz&theme=github-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samezzz&layout=default&show_icons=true&theme=blue-green&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 **I'm a Night Person btw🦉** 
 
