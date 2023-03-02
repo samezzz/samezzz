@@ -4,7 +4,7 @@
   <img alt="my Twitter" width="50px" src="https://user-images.githubusercontent.com/95895530/203465411-e08b5a7d-7bff-4323-a08e-28ad3eb94e80.png"/>
 </a>
 <a href="https://www.linkedin.com/in/samuel-essilfie-274684252/">
-  <img alt="my LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/95895530/206334609-acdb772c-3984-40c1-9a82-0a406612f57a.png" />
+  <img alt="my LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/95895530/222520122-bb429593-68f6-499e-800e-c7c0ac99d894.jpg" />
 </a>
 <a href="psalmuelselfie@gmail.com">
   <img alt="my Email" width="50px" src="https://user-images.githubusercontent.com/95895530/203465529-99ef9677-fba7-46e6-95c0-2048184c83fa.png" />
