@@ -56,6 +56,8 @@ Thank You! 🙏🏽
 <br/>
 For what you might ask? Just saying🤗. Or it's me being polite because you might be a recruiter👀
 
+</br>
+</br>
 <h3 align="center">Languages and Tools</h3>
 <p align="center"><img center height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /><img height=50
@@ -70,6 +72,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.s
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
+</br>
+</br>
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
