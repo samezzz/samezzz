@@ -12,6 +12,7 @@
 <br>
 <img alt="" src="" />
 </p>
+
 <pre>
                                        ___           ___           ___       ___       ___     
                                       /\__\         /\  \         /\__\     /\__\     /\  \    
@@ -49,11 +50,13 @@ note: Jesus, Saviour of the world!!!
 ```
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=samezzz&theme=github-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samezzz&layout=default&show_icons=true&theme=blue-green&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
 
 **I'm a Night Person btw🦉** 
 
 Thank You! 🙏🏽
+<br/>
 For what you might ask? Just saying🤗. Or it's me being polite because you might be a recruiter👀
 
 <h3 align="center">Languages and Tools</h3>
@@ -64,7 +67,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /><img height=50
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/><img height=50
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/><img height=50                                               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/><img height=50                                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /><img height=50                                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-
 
 
 <p align="center">
