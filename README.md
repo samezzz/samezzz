@@ -49,9 +49,6 @@ tip: Check out Dag Heward Mills Podcast and thank me later😉
 note: Jesus, Saviour of the world!!!
 ```
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=samezzz&theme=github-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samezzz&layout=default&show_icons=true&theme=blue-green&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
 
 **I'm a Night Person btw🦉** 
 
@@ -72,4 +69,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.s
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
+### Quick stats about me
+| Github Stats | Top Languages |
+| --- | --- |
+| ![GitHub Streak](https://streak-stats.demolab.com?user=samezzz&theme=github-dark&date_format=j%20M%5B%20Y%5D)| ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samezzz&show_icons=true&title_color=ffffff&icon_color=f6c32c&text_color=39D353&bg_color=0d1117&count_private=true&layout=compact) |
+
 
