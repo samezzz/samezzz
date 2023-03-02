@@ -10,7 +10,7 @@
   <img alt="my Email" width="50px" src="https://user-images.githubusercontent.com/95895530/203465529-99ef9677-fba7-46e6-95c0-2048184c83fa.png" />
 </a>
 <a href="">
-  <img alt="my Spotify" width="50px" height="50px" src="https://user-images.githubusercontent.com/95895530/203466679-c94faaf7-9d8f-4b46-a79d-b12008118a9c.png" />
+  <img alt="my Spotify" width="50px" height="100px" src="https://user-images.githubusercontent.com/95895530/203466679-c94faaf7-9d8f-4b46-a79d-b12008118a9c.png" />
 </a>
 <br>
 <img alt="" src="" />
