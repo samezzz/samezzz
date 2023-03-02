@@ -72,8 +72,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.s
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-</br>
-</br>
+
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
