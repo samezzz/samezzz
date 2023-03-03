@@ -9,8 +9,6 @@
 <a href="psalmuelselfie@gmail.com">
   <img alt="my Email" width="50px" src="https://user-images.githubusercontent.com/95895530/203465529-99ef9677-fba7-46e6-95c0-2048184c83fa.png" />
 </a>
-<br>
-<img alt="" src="" />
 </p>
 
 <pre>
