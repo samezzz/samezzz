@@ -42,10 +42,11 @@ will_learn: ["open source contributions"]
 hobbies: ["Playing the Piano", "Playing the Bass😂", "Python"]
 ```
 ```yaml
+
+
 tip: Check out Dag Heward Mills Podcast and thank me later😉
 note: Jesus, Saviour of the world!!!
 ```
-
 
 **I'm a Night Person btw🦉** 
 
@@ -56,7 +57,8 @@ For what you might ask? Just saying🤗. Or it's me being polite because you mig
 </br>
 </br>
 <h3 align="center">Languages and Tools</h3>
-<p align="center"><img center height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50
+<p align="center"><img center height=50 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /><img height=50
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img height=50
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img height=50
