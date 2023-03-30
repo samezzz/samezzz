@@ -50,9 +50,6 @@ note: Jesus, Saviour of the world!!!
 
 **I'm a Night Person btw🦉** 
 
-Thank You! 🙏🏽
-<br/>
-For what you might ask? Just saying🤗. Or it's me being polite because you might be a recruiter👀
 
 </br>
 </br>
