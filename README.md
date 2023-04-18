@@ -25,17 +25,14 @@ currently_learning: ["GraphQL", "Javascript", "TypeScript", "Tailwind CSS", "Rea
 will_learn: ["open source contributions"]
 hobbies: ["Playing the Piano", "Playing the Bass😂", "Python"]
 ```
+
 ```yaml
-
-
 tip: Check out Dag Heward Mills Podcast and thank me later😉
 note: Jesus, Saviour of the world!!!
+
+I'm a Night Person btw🦉
 ```
 
-**I'm a Night Person btw🦉** 
-
-
-</br>
 </br>
 <h3 align="center">Languages and Tools</h3>
 <p align="center"><img center height=50 
