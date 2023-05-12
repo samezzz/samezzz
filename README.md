@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/samuel-essilfie-274684252/">
   <img alt="my LinkdeIN" width="60px" height="50px" src="https://user-images.githubusercontent.com/95895530/222520122-bb429593-68f6-499e-800e-c7c0ac99d894.jpg" />
 </a>
-<a href="mailto:psalmuelselfie@gmail.com">
+<a href="mailto:psalmuelselfie@gmail.com?subject=[GitHub]%20Source%20Han%20Sans">
   <img alt="my Email" width="50px" src="https://user-images.githubusercontent.com/95895530/203465529-99ef9677-fba7-46e6-95c0-2048184c83fa.png" />
 </a>
 </p>
