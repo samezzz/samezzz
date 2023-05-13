@@ -19,8 +19,8 @@ company: N/A
 experiences: 
   - ["Not yet🤫"]
 
-fields_of_interests: ["Web Development", "Data Science", "Scripting and Automation", "GraphQL", "Tailwind CSS"]
-skills: ["Backend developement with Django Framework", "Database design with Postgres db"]
+fields_of_interests: ["Web Development", "Data Science", "Scripting and Automation"]
+skills: ["Backend developement with Django Framework", "Database design with Postgres db", "GraphQL", "Tailwind CSS"]
 currently_learning: ["TypeScript", "ReactJs", "NextJs", "golang", "c++"]
 will_learn: ["open source contributions"]
 hobbies: ["Playing the Piano", "Playing the Bass😂", "Python"]
