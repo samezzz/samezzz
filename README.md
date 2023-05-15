@@ -51,7 +51,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.s
 
 
 ### Quick stats about me
-![](https://komarev.com/ghpvc/?username=ysamezzz&color=green)
+![](https://komarev.com/ghpvc/?username=ysamezzz&color=39D353)
 | Github Stats | Top Languages |
 | --- | --- |
 | ![GitHub Streak](https://streak-stats.demolab.com?user=samezzz&theme=github-dark&date_format=j%20M%5B%20Y%5D)| ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samezzz&show_icons=true&title_color=ffffff&icon_color=f6c32c&text_color=39D353&bg_color=0d1117&count_private=true&layout=compact) |
